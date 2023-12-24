@@ -26,7 +26,7 @@ const UploadImage = () => {
 
     return(
         <div>
-            <h1>Upload Image</h1> 
+            <h1>Upload Image by React</h1> 
 
             <form onSubmit={uploadImg}>
                 <input type="file" name="file" 
